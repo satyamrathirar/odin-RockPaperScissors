@@ -48,7 +48,6 @@ function playRound(humanChoice, computerChoice) {
     }
 
     console.log(resultText);
-    return resultText;
 }
 
 function playGame(playerInput) {
